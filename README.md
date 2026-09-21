@@ -88,21 +88,12 @@ I own end-to-end ML systems at VECV, from raw telematics data to monitored produ
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boobalanashokan&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boobalanashokan&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to **Data Scientist** and **Data Analyst** roles. If you're building ML systems that need to work in the real world, I'd love to talk.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/boobalan-ashokan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:boobalanashokan2002@gmail.com">
